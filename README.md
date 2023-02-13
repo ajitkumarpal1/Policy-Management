@@ -29,3 +29,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 #what this code Doing
 
 mainly this project calling php api store data to database, and get data from database to represent in the project.
+
+#To use it
+1.Download the project.
+
+2.Open Terminal or CMD and run the command 'npm install'.
+
+3.Then run the command 'ng serve --open' or 'ng s --o'.
