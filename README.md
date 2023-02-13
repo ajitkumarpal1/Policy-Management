@@ -36,3 +36,7 @@ mainly this project calling php api store data to database, and get data from da
 2.Open Terminal or CMD and run the command 'npm install'.
 
 3.Then run the command 'ng serve --open' or 'ng s --o'.
+
+here is the link of live project
+
+https://github-oqizqs.stackblitz.io
