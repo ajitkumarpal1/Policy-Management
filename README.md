@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 #what this code Doing
 
-manily this project calling php api store data to database, and get data from database to represent in the project.
+mainly this project calling php api store data to database, and get data from database to represent in the project.
